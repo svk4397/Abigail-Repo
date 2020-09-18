@@ -1,4 +1,4 @@
 this is test file
 
-user interface file of developer 1user interface file of developer 1
+user interface file of developer 1
 user interface file of developer 2
